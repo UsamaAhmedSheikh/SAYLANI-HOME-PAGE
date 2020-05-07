@@ -1,0 +1,190 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html body{
+    background-color: #F7F8FA;
+}
+ul li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.head-buttons a {
+    padding: 3px ;
+  
+}
+
+.my-nav{
+    background-color:   #F7F8FA;
+}
+
+.ul-my{
+    margin-right: 100px;
+}
+
+.navbar-brand img{
+    margin-left: 145px;
+}
+
+
+.nav-item a:hover{
+    background-color: royalblue;
+    color: black;
+ 
+}
+
+.my-4{
+    background-color: royalblue;
+    height: 20px;
+    color: white;
+    font-size: 12px;
+}
+
+
+.my-5 h1{
+    text-align: center;
+  
+}
+.my-5{
+    background-color: #F7F8FA;
+}
+
+
+.my-6 h1{
+text-align: center;
+
+}
+
+
+.sectt{
+    height: 185px;
+    width: 360px;
+    margin: 0px 0px 30px 0px;
+    display: block;
+  padding: 30px 30px 30px 30px;
+  box-shadow: 2px 2px 4px #00000075;
+    
+}
+ .my10{
+     background-color: #FFFFFF;
+ }
+
+
+.my10 h3{
+    margin-top: 50px;
+}
+
+.separator {
+    width: 70px;
+    height: 3px;
+    background-color: green;
+    display: block;
+}
+
+.upe{
+    margin-top: 20px;
+}
+.py-5{
+    background-color: white;
+}
+
+.my11 h1{
+text-align: center;
+}
+ 
+.footer-bottom-container{
+    text-align: center ;
+}
+
+.circle-icon {
+    background: royalblue;
+    padding: 8px;
+    border-radius: 100%;
+}
+
+.footer-social-icon{
+    display: inline-flex;
+
+}
+
+
+
+
+
+       
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 587px) {
+    .navbar-brand img{
+margin: auto;
+}
+ 
+.my-7 img {
+   margin-left: 20px;
+
+}
+
+.my-9 .sectt {
+    margin-left: 50px;
+}
+ .hs{
+     margin-top: 15px;
+ }
+
+
+
+ .titleicon img{
+     margin-left: 10px;
+ }
+
+ .imgallery h1{
+margin-left: 10px;
+ }
+
+ .imgallery img{
+     width: 226px;
+ }
+
+
+
+}
+
+
+
+@media only screen and (max-width: 384px) {
+    .sectt {
+        height: 185px !important;
+        width: 320px !important;
+        margin-left: auto !important;
+        margin-right: auto !important;
+    }
+
+    .my-110 {
+        margin-right: auto !important;
+        margin-left: auto !important;
+    }
+}
+
+@media only screen and (max-width: 340px) {
+    .sectt {
+        height: 185px !important;
+        width: 280px !important;
+        margin-left: auto !important;
+        margin-right: auto !important;
+    }
+    .my-110 {
+        margin-right: 100px;
+       
+    }
+}
